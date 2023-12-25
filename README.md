@@ -2,7 +2,7 @@
 
 GitHub User Finder is a web application that allows users to search for GitHub profiles and explore detailed information about users.
 
-![GitHub User Finder Preview](GitHub_User_Finder/image.png)
+![GitHub User Finder Preview](<img width="1251" alt="image" src="https://github.com/jayeshmuley10/GitHub_User_Finder/assets/115483595/c1ea869a-acd1-4a31-aeaa-37c18113b586">)
 
 ## Features
 
